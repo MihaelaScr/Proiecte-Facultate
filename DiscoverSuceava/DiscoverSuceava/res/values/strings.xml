@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Discover Suceava "</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_text">In order to have access to your personal Travel Journal you must Sign in/Sign up</string>
+    <string name="skip">Skip registration! </string>
+    <string name="sign_up">Join now! It is free!</string>
+    <string name="email">Email:</string>
+    <string name="screen_name">Screen name:</string>
+    <string name="password">Password:</string>
+    <string name="sign_up_button">Sign up</string>
+    <string name="sign_in">Welcome back!</string>
+    <string name="sign_in_button">Sign in</string>
+    <string name="dialog_message">If you don\'t have an account, you have to sign up!</string>
+    <string name="dialog_title">Alert!</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign_in_ok_button">Ok</string>
+    <string name="sign_in_message_first">You are now signed in as  </string>
+    <string name="sign_in_message_second"> .You can sign out in Settings.</string>
+    <string name="sign_in_title">Sign In Alert!</string>
+    <string name="check_in_button">Check In</string>
+    <string name="map_button">Map</string>
+    <string name="thoughts_button">Add your thoughts here and remember them after your trip!</string>
+
+    <!-- DRAWER -->
+    <string name="unknown">Loading...</string>
+    <string name="obsTime">Observation Time: </string>
+    <string name="temperature">Temperature in Suceava: </string>
+    <string name="about_app">Discover Suceava is an application that helps tourists to find out about the most important and frequented 
+        places in Suceava city: hotels, shopping centers, restaurants and several point of interest. Having a trip journal requires an account.
+        Without one, the application user cannot check-in to any of Suceava\'s points of interest. Also, to have acces to Map, Weather and 
+        Currency facilities, an internet connection is required.</string>
+    <string name="logout_button">Sign Out</string>
+    <string name="settings">Settings</string>
+    <string name="action_exit">Exit</string>
+
+    <string-array name="drawer_items">
+        <item>About App</item>
+        <item>Settings</item>
+        <item>Feedback</item>
+        <item>Currency</item>
+        <item>Weather</item>
+    </string-array>
+    <string-array name="menu_items">
+        <item>Map</item>
+        <item>Food and Drink</item>
+        <item>Hotels</item>
+        <item>Attractions</item>
+        <item>Shopping</item>
+        <item>My Trip Journal</item>
+    </string-array>
+
+    <!-- FOOD AND DRINK -->
+    <string name="fd_image">Image for food and drink</string>
+    <string name="padrino_desc">If you are looking for good food and service in Suceava go here. The decorations are clear and well selected.
+         The menu is full of good options to select from. There are plenty of events to choose from too.</string>
+    <string name="padrino_contact">Str. Universitatii, Nr. 14, Suceava </string>
+    <string name="padrino_contact2">Phone:0330 112 116</string>
+    <string name="padrino_contact3">Schedule: M-F:9.00 am - 1.00 am , Weekend: 9.00 am - 6.00 am</string>
+    <string name="taco_loco_desc">This restaurant is situated in the heart of Suceava and here you can find from traditional to international food at a great price too.
+        The staff is always polite and friendly, never in a hurry. 
+        The seating area outside is great. Not only that the place is beautiful and the service is polite but the food is very good. </string>
+    <string name="taco_loco_contact">Str. Vasile Bumbac, Nr. 5A, Suceava</string>
+    <string name="taco_loco_contact2">Phone: 0748 22 00 32</string>
+    <string name="taco_loco_contact3">Schedule: Monday - Sunday : NON STOP</string>
+    <string name="latino_desc">This is a great restaurant! Here you can find true Romanian traditional food, very tasty! 
+        Do not go there in the week-ends because is very crowded! The staff is polite, the food is all made fresh, from traditional ingredients. 
+        Highly recommended for foreign visitors who want to discover the Romanian traditional food.</string>
+    <string name="latino_contact">Str. Curtea Domneasca, Nr. 9, Suceava</string>
+    <string name="latino_contact2">Phone: 0730920920</string>
+    <string name="latino_contact3">Schedule: Monday - Sunday : 9.00 am - 23.00 pm </string>
+    <string name="vama_veche_desc">At this restaurant the steak is great, the staff also, but there are some things that could be better.
+         The rest of the food is ok, but not excellent and the prices are pretty high for. The desert is special.
+         A fine restaurant but not the greatest.</string>
+    <string name="vama_veche_contact">Str. Humorului, Nr. 87, Scheia</string>
+    <string name="vama_veche_contact2">Phone: 0230 526 939</string>
+    <string name="vama_veche_contact3">Schedule: Monday - Sunday: NON STOP </string>
+    <string name="oscar_wilde_desc">It is a very nice restaurant, in the centre of the city. The food is great, especially the pastas, even the service is not one of the best.
+         If you go there, you definitely have to try the coffee cream, the all 3 types.
+	     The atmosphere is also good, the music is good, but the air is a little too smoky.</string>
+    <string name="oscar_wilde_contact">Str. Ştefan cel Mare, Nr. 26, Suceava</string>
+    <string name="oscar_wilde_contact2">Phone: 0330 803 102</string>
+    <string name="oscar_wilde_contact3">Schedule: M-F: 8.00 am - 24.00 pm, Weekend: 11.00 am - last client</string>
+    <string name="mosaik_desc">Excellent international and Romanian dishes served in a professional way. Mosaik shares a very beautiful garden with Hotel Sonnenhof.
+         Just outside of the center of Suceava, this is the perfect place were you can eat and/or sleep whenever visiting the north side of Romania.
+          It is easy to find cheaper, but hard to find better.</string>
+    <string name="mosaik_contact">Blvd. Sofia Vicoveanca, Nr. 68, Suceava</string>
+    <string name="mosaik_contact2">Phone: 0230 22 00 33 </string>
+    <string name="mosaik_contact3">Schedule: Monday - Sunday: 7.00 am - 11.00 pm</string>
+
+    <!-- HOTELS -->
+    <string name="bucovina_desc">The Bucovina Hotel has an impressive tradition of over 30 years in the domain of hospitality, housing rooms in Suceava. 
+        The hotel offers itself not like just a wonderful place to stay but also like an ideal place to organize conferences, symposiums, business meetings or cultural reunions.</string>
+    <string name="bucovina_contact">Bulevardul Ana Ipătescu, Nr. 5, Vatra Dornei </string>
+    <string name="bucovina_contact2">Phone: 0230 520 250</string>
+    <string name="bucovina_contact3">Stars: **</string>
+    <string name="imperium_desc">The Imperium Hotel is a place full of ospitality asured by its nice staff. If you are looking for a special and elegant
+         environment, this is the perfect place. The hotel is known as "The Jewel" of the city Suceava.</string>
+    <string name="imperium_contact">Bld. Sofia Vicoveanca, nr.17, Suceava </string>
+    <string name="imperium_contact2">Phone: 230 211 115</string>
+    <string name="imperium_contact3">Stars: ****</string>
+    <string name="zamca_desc">Whether you come for business, whether you come to visit , or you simply want to relax, you have every reason to choose Zamca in Suceava.
+        This place offers you a summer garden, excellent restaurants, a well mentained football field and a fully equipped games club.</string>
+    <string name="zamca_contact">Strada Zamca, Nr. 28 A, Suceava </string>
+    <string name="zamca_contact2">Phone: 230 521 008</string>
+    <string name="zamca_contact3">Stars: ***</string>
+    <string name="continental_desc">Classic with a privileged position in the city center, Continental Hotel is in proximity of the most important tourist attractions , 
+        and administrative points. The hotel has the best conference rooms and reservations offer in town.</string>
+    <string name="continental_contact">Str. Mihai Viteazul, Nr. 4–6, Suceava </string>
+    <string name="continental_contact2">Phone: 372 304 904</string>
+    <string name="continental_contact3">Stars: ***</string>
+    <string name="sonnenhof_desc">The Sonnenhof Hotel welcomes guests with great services and home-like atmosphere. 
+        The 58 spacious, comfortable rooms, decorated in shades of green and garden motifs will make your stay extremely relaxing.</string>
+    <string name="sonnenhof_contact">Blvd. Sofia Vicoveanca, Nr. 68, Suceava </string>
+    <string name="sonnenhof_contact2">Phone: 230 220 033</string>
+    <string name="sonnenhof_contact3">Stars: ****</string>
+
+    <!-- ATTRACTIONS -->
+    <string name="cacica_desc">The Cacica salt mine represents an important tourist attraction of the region.
+        Cacica Salt Mine is one of the oldest exploitations of salt recrystallized from brine from Europe.This is great place to spent a few days in relaxation and 
+        cure at the salt mine which treats a lot of pulmonary and rheumatism diseases.</string>
+    <string name="cacica_contact">18 km away from Gura Humorului, near Cacica Town.</string>
+    <string name="cacica_contact2">Monday-Sunday: 09:00 – 17:00</string>
+    <string name="cetate_desc">Cetatea de Scaun a Sucevei is a medieval fortress located in city of Suceava, Suceava County. It was built in 14th century  during Petru I Muşat\'s reign and expanded 
+        in the 15th century during Stefan the Great III\'s reign. The citadel played a key role in Stefan the Great III of Modavia\'s defense system.</string>
+    <string name="cetate_contact">Aleea Cetatii, Suceava </string>
+    <string name="cetate_contact2">Monday–Friday: 17:00 – 20:00
+        Saturday–Sunday: 8:00 – 20:00</string>
+    <string name="porumbescu_desc">The music fans can enter the universe in which the biggest composer of Bucovina has lived. The Memorial House in which the founder of the Romanian 
+        modern music has lived, is impressive not only for its oldness but for its historical importance and architectonic style.</string>
+    <string name="porumbescu_contact">Stupca Village, Suceava </string>
+    <string name="porumbescu_contact2">April–October/ Thusday–Sunday: 10:00 – 18:00
+        October–April/ Thusday–Sunday: 9:00 – 17:00</string>
+    <string name="putna_desc">The Putna Monastery is one of the most important cultural, religious and artistic centers established in medieval Moldavia.
+        The Putna Monastery houses the tombs of Stefan the Great —nowadays, a place of pilgrimage —, and several of his family members. The icon veils and tombstones
+         are held as fine examples of Moldavian art in Stefan the Great’s time.</string>
+    <string name="putna_contact">DC47A 168, Putna Village</string>
+    <string name="putna_contact2">Phone: 0230 414 055</string>
+    <string name="sucevita_desc">Sucevita Monastery is an Eastern Orthodox convent built in 1585 by Ieremia Movilă, Gheorghe Movilă and Simion Movilă.
+        This classic Moldavian church with its five rooms, shows the first new architectural tendencies: smaller niches, and three bases for the tower. 
+        The frescoes are very remarkable, colourful and well preserved.</string>
+    <string name="sucevita_contact">Sucevita Village, 18 km away from the city of Rădăuţi.</string>
+    <string name="sucevita_contact2">Phone: 230 417 110</string>
+    <string name="voronet_desc">The Church of St. George of the Voronet Monastery is possibly the most famous church of Romania. Often known 
+        as the "Sistine Chapel of the East", the frescoes at Voroneț feature an intense shade of blue known in Romania as "Voroneț blue".</string>
+    <string name="voronet_contact">6 km from Voroneț Village, Gura Humorului, Suceava County</string>
+    <string name="voronet_contact2">Monday-Sunday: 7:00 – 20:00</string>
+
+    <!-- SHOPPING -->
+    <string name="iulius_desc">Iulius Mall Suceava revolutionizes the retail market through regional mix of shopping -dining -entertainment. The modern architecture and design added 
+        the 150 quality brands, are recommending Iulius Mall Suceava as a top destination for shopping and entertainment with style.</string>
+    <string name="iulius_contact">Calea Unirii, Nr. 22, Suceava</string>
+    <string name="iulius_contact2">Phone: 0230 208 700</string>
+    <string name="iulius_contact3">Monday–Sunday: 10:00 – 22:00</string>
+    <string name="metro_desc">What\'s the results when you combine the sweet Moldavian mouth and the Metro professionalism? A warm 
+        and familiar shop, in which the customer likes to come, and receives solutions from the Metro team, adapted to his needs.</string>
+    <string name="metro_contact">Bd. 1 Decembrie 1918, Nr.5, Suceava</string>
+    <string name="metro_contact2">Phone: 0230 406 150</string>
+    <string name="metro_contact3">Monday–Saturday: 6:00 – 22:00 Sunday: 8:00 – 18:00</string>
+    <string name="galeria_desc">On Bucovina lands, Galleria Suceava aims to combine traditions with good humour, entertainment with relaxation. Galleria Suceava offers its customers 
+        a new shopping concept, a mall completely devoted to them, defined by new brands, useful services, plenty of music and fun.</string>
+    <string name="galeria_contact">Strada Sofia Vicoveanca, Nr. 1, Suceava</string>
+    <string name="galeria_contact2">Monday–Sunday: 9:00 – 21:00</string>
+    <string name="carrefour_desc">Carrefour...Suceava...Bucovina...three words that, taken together, symbolizes tradition, variety, innovation and perspective.
+        Carrefour Suceava group promotes values, such as low prices, quality, freshness, variety, innovation and service.</string>
+    <string name="carrefour_contact">Calea Unirii, Nr. 27 B, Suceava</string>
+    <string name="carrefour_contact2">Monday–Sunday: 8:00 – 22:00</string>
+    <string name="carrefour_contact3">0374 146 200</string>
+
+    <!-- TITLES ACTIVITY -->
+    <string name="title_activity_sonnenhof">Sonnenhof Hotel</string>
+    <string name="title_activity_imperium">Imperium Hotel</string>
+    <string name="title_activity_continental">Continental Hotel</string>
+    <string name="title_activity_zamca">Zamca Hotel</string>
+    <string name="title_activity_bucovina">Bucovina Hotel</string>
+    <string name="title_activity_cetate">Cetatea de Scaun a Sucevei</string>
+    <string name="title_activity_sucevita">Sucevita Monastery</string>
+    <string name="title_activity_sign_up">Discover Suceava</string>
+    <string name="title_activity_sign_in">Sign In</string>
+    <string name="title_activity_voronet">Voronet Monastery</string>
+    <string name="title_activity_putna">Putna Monastery</string>
+    <string name="title_activity_cacica">The Salt Mine from Cacica</string>
+    <string name="title_activity_porumbescu">Ciprian Porumbescu\'s Memorial House</string>
+    <string name="title_activity_iulius">Iulius Mall</string>
+    <string name="title_activity_galeria">Galeria Mall</string>
+    <string name="title_activity_metro">Metro</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_welcome">Suceava</string>
+    <string name="title_activity_carrefour">Carrefour</string>
+    <string name="title_activity_food_drink">Food and Drink</string>
+    <string name="title_activity_padrino">Padrino Restaurant</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_hotels">Hotels</string>
+    <string name="title_activity_attractions">Attractions</string>
+    <string name="title_activity_shopping">Shopping</string>
+    <string name="title_activity_trip_journal">Trip Journal</string>
+    <string name="title_activity_about_app">About Discover Suceava</string>
+    <string name="title_activity_mosaik">Mosaik Restaurant</string>
+    <string name="title_activity_feedback">Give Us Feedback!</string>
+    <string name="title_activity_oscar_wilde">Oscar Wilde Pub</string>
+    <string name="title_activity_taco_loco">Taco Loco Restaurant</string>
+    <string name="title_activity_latino">Latino Restaurant</string>
+    <string name="title_activity_vama_veche">Vama Veche Restaurant</string>
+    <string name="title_activity_currency">Currency</string>
+    <string name="title_activity_weather">Weather</string>
+    <string name="journal_text">You have no entries yet in your journal. Make some memories!</string>
+    <string name="grafic_button">Most visited!</string>
+    <string name="title_activity_grafic">Top Five Most Visited</string>
+    <string name="no_user">You are not signed in !</string>
+</resources>

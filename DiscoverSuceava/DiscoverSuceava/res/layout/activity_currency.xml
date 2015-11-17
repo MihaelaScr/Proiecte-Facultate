@@ -1,0 +1,70 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="top|left"
+    android:background="@drawable/currency_bg">
+     
+     <TableRow 
+       android:id="@+id/tableRowCurrency1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        android:gravity="center_horizontal"
+        android:layout_marginRight="0dp"
+        android:layout_margin="40dp">   
+        
+        
+      <ImageView 
+            android:id="@+id/currencyUSD"
+            android:src="@drawable/usd_logo"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+			android:scaleType="fitXY"
+			android:paddingLeft="10dp"
+			android:paddingTop="10dp"/>
+    
+     <TextView 
+            android:id="@+id/euro"
+            android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+	        android:text="@string/unknown"
+	        android:textStyle="bold"
+	        android:layout_gravity="center"
+	        android:paddingLeft="20dp"
+	        android:textSize="30sp"
+	        android:textColor="@color/Black"
+		/>
+     
+     </TableRow>
+     
+     
+     <TableRow 
+       android:id="@+id/tableRowCurrency2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        android:gravity="center_horizontal"
+        android:layout_marginRight="0dp"
+        android:layout_margin="40dp">   
+        
+      <ImageView 
+            android:id="@+id/currencyEuro"
+            android:src="@drawable/euro_logo"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+			android:scaleType="fitXY"
+			android:paddingLeft="10dp"
+			android:paddingTop="10dp"/>
+        
+      <TextView 
+            android:id="@+id/usd"
+            android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+	        android:text="@string/unknown"
+	        android:textStyle="bold"
+	        android:layout_gravity="center"
+	        android:paddingLeft="20dp"
+	        android:textSize="30sp"
+	        android:textColor="@color/Black"
+		/>
+    </TableRow> 
+</LinearLayout>
